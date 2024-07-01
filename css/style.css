@@ -22,7 +22,7 @@ body{
     width: 100%;
     height: 60px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -203,6 +203,7 @@ align-items: center;
     display:inline-flex;
     justify-content: center;
     align-items: center;
+    color: white;
 }
 
 .fa-google-plus{
